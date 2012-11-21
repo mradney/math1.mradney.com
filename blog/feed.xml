@@ -3,9 +3,31 @@
     <title>Math 1 Int.</title>
     <link href="http://math1.mradney.com/blog/feed.xml" rel="self" />
     <link href="http://math1.mradney.com/blog/" />
-    <updated>2012-10-15T09:17:20+06:00</updated>
+    <updated>2012-11-21T17:57:58+06:00</updated>
     <id>http://math1.mradney.com/blog/</id>
     <entry>
+        <title type="html"><![CDATA[Study Guide for Exam 2]]></title>
+        <author><name>James Adney</name></author>
+        <link href="http://math1.mradney.com/blog/2012/study-guide.html"/>
+        <published>2012-11-20T00:00:00+06:00</published>
+        <updated>2012-11-21T17:57:58+06:00</updated>
+        <id>http://math1.mradney.com/blog/2012/study-guide.html</id>
+        <category scheme="http://math1.mradney.com/blog/tag/#exams" term="exams" label="exams" />
+        <content type="html" xml:base="http://math1.mradney.com/" xml:lang="en">
+            <![CDATA[ <h2 id="toc_0">Link</h2>
+<p><a href="http://goo.gl/N94by">Here is the study guide for Block 2&#39;s exam</a>
+<object id="flashObj" width="480" height="270" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0"><param name="movie" value="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" /><param name="bgcolor" value="#FFFFFF" /><param name="flashVars" value="videoId=1900707044001&linkBaseURL=http%3A%2F%2Fwww.redbullstratos.com%2Fgallery%2F%3FmediaId%3Dmedia1900707044001&playerID=1301163667001&playerKey=AQ~~,AAABLI1oPoE~,86_0aBAA5AZU70OETkqmWMRCOO-d1DSF&domain=embed&dynamicStreaming=true" /><param name="base" value="http://admin.brightcove.com" /><param name="seamlesstabbing" value="false" /><param name="allowFullScreen" value="true" /><param name="swLiveConnect" value="true" /><param name="allowScriptAccess" value="always" /><embed src="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1" bgcolor="#FFFFFF" flashVars="videoId=1900707044001&linkBaseURL=http%3A%2F%2Fwww.redbullstratos.com%2Fgallery%2F%3FmediaId%3Dmedia1900707044001&playerID=1301163667001&playerKey=AQ~~,AAABLI1oPoE~,86_0aBAA5AZU70OETkqmWMRCOO-d1DSF&domain=embed&dynamicStreaming=true" base="http://admin.brightcove.com" name="flashObj" width="480" height="270" seamlesstabbing="false" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" swLiveConnect="true" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object></p>
+
+<h2 id="toc_1">Class</h2>
+<p>In class, we looked more closely at the criteria for divisibility by seven. Then we
+worked on the last problems in Section 10 of your workbooks.</p>
+
+<h2 id="toc_2">Reminder</h2>
+<p>We will be having a <strong>quiz on wednesday</strong> on &ldquo;games of chance&rdquo;. So don&#39;t forget
+about it even though we&#39;ve moved on to another topic.</p>
+]]>
+        </content>
+    </entry><entry>
         <title type="html"><![CDATA[Prime and Composite Numbers Continued]]></title>
         <author><name>James Adney</name></author>
         <link href="http://math1.mradney.com/blog/2012/primes-and-composites.html"/>
